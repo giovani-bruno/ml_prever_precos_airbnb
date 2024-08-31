@@ -11,8 +11,8 @@ Este projeto utiliza técnicas de Machine Learning para criar um modelo de intel
 - Matplotlib: Criação de gráficos estáticos em 2D.
 - Plotly Express: Criação de gráficos interativos.
 - Scikit-learn:
-    Modelos: LinearRegression, RandomForestRegressor, ExtraTreesRegressor.
-    Métricas: r2_score, mean_squared_error.
+    - Modelos: LinearRegression, RandomForestRegressor, ExtraTreesRegressor.
+    - Métricas: r2_score, mean_squared_error.
 
 
 
